@@ -10,7 +10,7 @@
 
         while (option != "x")
         {
-            Console.WriteLine("What would you like to do ");
+            Console.WriteLine("What would you like to do in list ");
             Console.WriteLine("Enter 1 to add a task to the list. ");
             Console.WriteLine("Enter 2 to remove a task from the list. ");
             Console.WriteLine("Enter 3 to view the list. ");
